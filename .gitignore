@@ -1,0 +1,6 @@
+captions_val2017.json
+output_glove_file.txt
+rougeScore.py
+.idea/
+__pycache__/
+word_vectors.pkl
